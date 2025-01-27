@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/day01-hellowordld-app/com.itheima.hello/com.itheima.hello.iml" filepath="$PROJECT_DIR$/day01-hellowordld-app/com.itheima.hello/com.itheima.hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01-hellowordld-app/day01-hellowordld-app.iml" filepath="$PROJECT_DIR$/day01-hellowordld-app/day01-hellowordld-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaseaiproject.iml" filepath="$PROJECT_DIR$/javaseaiproject.iml" />
+    </modules>
+  </component>
+</project>
