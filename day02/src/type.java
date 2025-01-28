@@ -7,6 +7,8 @@ public class type {
 
         int result2 = calc3((byte)110,(byte)120);
         System.out.println(result2);
+
+        System.out.println(calc(110,120,3.14,'+'));
     }
     public static double calc(int a, int b, double c, char r){
         return a+b+c+r;
