@@ -7,3 +7,4 @@ Please note: 在表达式中,byte,short,char是直接转换成int类型参与运
 Scanner sc = new Scanner(system.in);
 int age = sc.nextInt();
 String name = sc.next();
+字符串String+数字拼接成字符串，字符char+数字拼接成数字
