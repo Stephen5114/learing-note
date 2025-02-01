@@ -8,3 +8,5 @@ Scanner sc = new Scanner(system.in);
 int age = sc.nextInt();
 String name = sc.next();
 字符串String+数字拼接成字符串，字符char+数字拼接成数字
+
+Day3 Switch中只能是byte,short,int,char,jdk5支持枚举,jdk开始支持string,不支持double,float,long
